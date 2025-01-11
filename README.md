@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Banner](https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Syed Moinuddin</h1>
 <h3 align="center">Interested in SQL , coding and web development, and looking for roles in HR-Admin.</h3>
