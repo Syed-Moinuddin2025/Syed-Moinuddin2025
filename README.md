@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
     <h1>بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</h1>
-</div>                                                                                              
+</div>                                                        
 ![Banner](https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Syed Moinuddin</h1>
 <h3 align="center">Interested in SQL , coding and web development, and looking for roles in HR-Admin.</h3>
