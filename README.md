@@ -2,7 +2,7 @@
     بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 </div>
 
-<br><br>
+<br>
 
 ![Banner](https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/banner1.png)
 
