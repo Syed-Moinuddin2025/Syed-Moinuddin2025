@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-moinuddin2025&label=Profile%20views&color=0e75b6&style=flat" alt="syed-moinuddin2025" /> </p>
 
-- 🌱 I’m currently learning MySQL PostgreSQL **MySQL PostgreSQL**
+- 🌱 I’m currently learning   PostgreSQL , MySQL 
 
 - 👯 I’m looking to collaborate on open-source projects **open-source projects**
 
