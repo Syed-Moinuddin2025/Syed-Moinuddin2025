@@ -26,7 +26,7 @@
 ##  PostgreSQL Examples
 
 Here are some PostgreSQL queries I have worked on:
-- [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All/blob/main/postgresql_queries.sql)
+- [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/s4moin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s4moin" height="50" width="50" /></a>
