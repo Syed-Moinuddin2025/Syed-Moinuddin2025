@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning   PostgreSQL , MySQL 
 
 - 👯 I’m looking to collaborate on open-source projects **open-source projects**
-
+- 👨‍💻 All of my projects are available at [https://github.com/Syed-Moinuddin2025](https://github.com/Syed-Moinuddin2025)
 - 💬 Ask me about **HR/Admin Assistant with 6+ years of experience**
 
 - 📫 How to reach me **s4moin123@gmail.com**
@@ -26,8 +26,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/syed-moin-hr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/syed-moin-hr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@learnmore_and_earnmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnmore_and_earnmore" height="30" width="40" /></a>
+<a href="https://twitter.com/s4moin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s4moin" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/syed-moin-hr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/syed-moin-hr" height="50" width="50" /></a>
+<a href="https://instagram.com/s4moin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s4moin" height="50" width="50" /></a>
+<a href="https://www.youtube.com/c/@learnmore_and_earnmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@learnmore_and_earnmore" height="50" width="50" /></a>
 </p>
 ## PostgreSQL Examples
 
