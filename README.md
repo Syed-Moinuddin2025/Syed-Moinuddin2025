@@ -45,13 +45,18 @@ Here are some PostgreSQL queries I have worked on:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" alt="syed-moinuddin2025" /></p>
 
-<img align="right" alt="coding" width="400" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg">
-<img align="left" alt="coding" width="400" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
+<div>
+  <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg" style="margin-bottom: 20px;">
+  <img align="left" alt="coding" width="400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg" style="margin-bottom: 20px;">
+</div>
 
 <br><br><br>
 
+</br>
+</br>
+
+
 
 ![Image](https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/d7859ef6c782b9a7eba5c74a5c8907671b6dde2b/images/1_lE-hrdG0aAvjGlkCp1xLcA.jpg) 
- <br>
 
- 
+
