@@ -47,5 +47,10 @@ Here are some PostgreSQL queries I have worked on:
 
  
 
-<img align="right" alt="coding" width="480" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg">
-<img align="left" alt="coding" width="480" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
+<img align="right" alt="coding" width="470" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg">
+<img align="left" alt="coding" width="470" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
+
+</br> 
+
+
+
