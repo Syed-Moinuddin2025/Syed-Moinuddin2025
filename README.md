@@ -47,7 +47,7 @@ Here are some PostgreSQL queries I have worked on:
 
 <img align="right" alt="coding" width="400" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg">
 <img align="left" alt="coding" width="400" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
-<br>
+<br> <br>
 
 
 ![Image](https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/d7859ef6c782b9a7eba5c74a5c8907671b6dde2b/images/1_lE-hrdG0aAvjGlkCp1xLcA.jpg) 
