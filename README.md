@@ -45,9 +45,7 @@ Here are some PostgreSQL queries I have worked on:
 ![Image](https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/d7859ef6c782b9a7eba5c74a5c8907671b6dde2b/images/1_lE-hrdG0aAvjGlkCp1xLcA.jpg) 
 </br> </br>
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg" width="45%" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg" width="45%" />
-</p>
+ 
 
-
+<img align="right" alt="coding" width="480" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg">
+<img align="left" alt="coding" width="480" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
