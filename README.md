@@ -23,10 +23,18 @@
 - 📄 Know about my experiences "View my CV" [https://drive.google.com/file/d/1RvOEcTBU4c0ubBf5N1-ESwbTWze74T6D/view?usp=sharing](https://drive.google.com/file/d/1RvOEcTBU4c0ubBf5N1-ESwbTWze74T6D/view?usp=sharing)
 
 - ⚡ Fun fact **Did you know? I started coding because I wanted to automate my daily tasks, and now it’s my biggest passion! 😄**
+   <br>
+   
+  ![Image](https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/d7859ef6c782b9a7eba5c74a5c8907671b6dde2b/images/1_lE-hrdG0aAvjGlkCp1xLcA.jpg)
+  
+ <br>
+  
 ##  PostgreSQL Examples
 
 Here are some PostgreSQL queries I have worked on:
-<img align="right" alt="coding" width="600" height="350"  src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/pexels-pixabay-358220.jpg">
+<!--<img align="right" alt="coding" width="600" height="350"  src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/pexels-pixabay-358220.jpg">-->
+<img align="right" alt="Etihad Airlines" width="600" height="350" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/Etihad.jpg">
+
 - [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
 
 
@@ -45,13 +53,21 @@ Here are some PostgreSQL queries I have worked on:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" alt="syed-moinuddin2025" /></p>
 
-<img align="right" alt="coding" width="400" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg">
-<img align="left" alt="coding" width="400" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
-
-<br><br><br>
-
-
-![Image](https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/d7859ef6c782b9a7eba5c74a5c8907671b6dde2b/images/1_lE-hrdG0aAvjGlkCp1xLcA.jpg) 
+<img align="center" alt="coding" width="1400" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg">
 <br>
-
+<img align="centert" alt="coding" width="1400" src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
+<br>
+<div style="text-align: center;">
+  <img alt="UAE-Airlines" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/UAE-airlines.jpg">
+</div>
+<br>
+<div style="text-align: center;">
+  <img alt="UAE-Airlines" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/photo.jpeg">
+</div>
+<br>
+<div style="text-align: center;">
+  <img alt="UAE-Airlines" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/ABU-DHABI-AIRPORT.jpg">
+</div>
+<br>
  
+
