@@ -50,14 +50,12 @@ Here are some PostgreSQL queries I have worked on:
   <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg" style="margin-bottom: 20px;">
   <img align="left" alt="coding" width="400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg" style="margin-bottom: 20px;">
 </div>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br><br><br>
 
-<center>
-  <img alt="UAE-Airlines" width="600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/UAE-airlines.jpg">
-</center>
-
-
+<div style="text-align: center;">
+  <img alt="UAE-Airlines" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/UAE-airlines.jpg">
+</div>
 
 
 
