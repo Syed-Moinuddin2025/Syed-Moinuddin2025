@@ -47,8 +47,8 @@ Here are some PostgreSQL queries I have worked on:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" alt="syed-moinuddin2025" /></p>
 
 <div>
-  <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg" style="margin-bottom: 50px;">
-  <img align="left" alt="coding" width="400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg" style="margin-bottom: 50px;">
+  <img align="right" alt="coding" width="390" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg" style="margin-bottom: 10px;">
+  <img align="left" alt="coding" width="390" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg" style="margin-bottom: 10px;">
 </div>
  <br><br><br>
 
