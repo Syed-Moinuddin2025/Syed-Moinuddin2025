@@ -23,6 +23,8 @@
 - 📄 Know about my experiences "View my CV" [https://drive.google.com/file/d/1RvOEcTBU4c0ubBf5N1-ESwbTWze74T6D/view?usp=sharing](https://drive.google.com/file/d/1RvOEcTBU4c0ubBf5N1-ESwbTWze74T6D/view?usp=sharing)
 
 - ⚡ Fun fact **Did you know? I started coding because I wanted to automate my daily tasks, and now it’s my biggest passion! 😄**
+
+ ![Image](https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/d7859ef6c782b9a7eba5c74a5c8907671b6dde2b/images/1_lE-hrdG0aAvjGlkCp1xLcA.jpg) 
 ##  PostgreSQL Examples
 
 Here are some PostgreSQL queries I have worked on:
@@ -57,6 +59,6 @@ Here are some PostgreSQL queries I have worked on:
 
 
 
-![Image](https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/d7859ef6c782b9a7eba5c74a5c8907671b6dde2b/images/1_lE-hrdG0aAvjGlkCp1xLcA.jpg) 
+
 
 
