@@ -28,7 +28,7 @@
 ##  PostgreSQL Examples
 
 Here are some PostgreSQL queries I have worked on:
-<img align="right" alt="coding" width="600" height="350"  src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/pexels-pixabay-358220.jpg">
+<img align="right" alt="coding" width="500" height="350"  src= "https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/pexels-pixabay-358220.jpg">
 - [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
 
 
@@ -47,17 +47,20 @@ Here are some PostgreSQL queries I have worked on:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" alt="syed-moinuddin2025" /></p>
 
 <div>
-  <img align="right" alt="coding" width="390" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg" style="margin-bottom: 10px;">
-  <img align="left" alt="coding" width="390" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg" style="margin-bottom: 10px;">
+  <img align="center" alt="coding" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg" style="margin-bottom: 10px;">
+  <img align="center" alt="coding" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg" style="margin-bottom: 10px;">
 </div>
  <br><br><br>
 
 <div style="text-align: center;">
   <img alt="UAE-Airlines" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/UAE-airlines.jpg">
 </div>
-
+<div style="text-align: center;">
+  <img alt="UAE-Airlines" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/photo.jpeg">
+</div>
 
 <div style="text-align: center;">
-  <img alt="UAE-Airlines" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/UAE-airlines.jpg">
+  <img alt="UAE-Airlines" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/istockphoto.jpg">
 </div>
+
 
