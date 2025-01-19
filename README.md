@@ -71,6 +71,9 @@ Here are some PostgreSQL queries I have worked on:
 </div>
 <br>
  
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/PostgreSQL-Basics-for-All/main/images/postgreSQL-Image2.png" alt="postgreSQL-Image2" width="1000" height="auto">
+</div>
 
 
  
