@@ -23,7 +23,14 @@
 - 📄 Know about my experiences "View my CV" [https://drive.google.com/file/d/1RvOEcTBU4c0ubBf5N1-ESwbTWze74T6D/view?usp=sharing](https://drive.google.com/file/d/1RvOEcTBU4c0ubBf5N1-ESwbTWze74T6D/view?usp=sharing)
 
 - ⚡ Fun fact **Did you know? I started coding because I wanted to automate my daily tasks, and now it’s my biggest passion! 😄**
- # Let's start an exciting and amazing journey with PostgreSQL! 🚀
+
+
+# Hi there! 👋 Welcome to My GitHub Profile
+
+### My GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Moinuddin2025&show_icons=true&theme=radical)
+
+  # Let's start an exciting and amazing journey with PostgreSQL! 🚀
    <br>
    
  # PostgreSQL Examples
