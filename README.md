@@ -77,6 +77,7 @@
     <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/PostgreSQL-Basics-for-All/main/images/postgreSQL-Image2.png" alt="postgreSQL-Image2" width="1000" height="auto">
 </div>
 
+![SQL Image](https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQLImage.png?raw=true)
 
- <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/PostgreSQL-Basics-for-All/main/images/Photo-PostgreSQL.jpg" alt="Image" width="1400" height="600">
+
    
