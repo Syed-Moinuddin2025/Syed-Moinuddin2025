@@ -86,7 +86,8 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 
 ## ☕ Support My Work
 
-> **From `SELECT` to SUCCESS — I’m learning SQL and sharing every step through real-world projects.**  
+> Learning SQL, building cool projects, and sharing them with the world — one query at a time.  
+> Your support helps me stay motivated, keep coding, and yes… keep the coffee flowing! ☕🚀  
 > Support my journey and keep the caffeine + code going strong! ☕💻✨
 
 <br>
