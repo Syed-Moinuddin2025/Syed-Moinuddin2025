@@ -15,7 +15,7 @@
 
  
 <p align="left">
-<img align="right" alt="SQL, MySQL, PostgreSQL" width="570" height="340" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/Sql-mysql-PSql.png">
+<img align="right" alt="SQL, MySQL, PostgreSQL" width="560" height="340" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/Sql-mysql-PSql.png">
 </p>
 
 ## 🌱 Currently Learning
