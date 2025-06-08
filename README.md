@@ -86,12 +86,19 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 
 ## ☕ Support My Work
 
-Hi! I'm learning SQL and sharing what I learn through projects and videos.  
-If my work helped you, feel free to buy me a coffee — it keeps me going! 😊
+> **From `SELECT` to SUCCESS — I’m learning SQL and sharing every step through real-world projects.**  
+> Support my journey and keep the caffeine + code going strong! ☕💻✨
 
-- **UPI ID**: `9701362151@kotak811`  
-- **PayPal**: [paypal.me/syedmoinuddin101](https://paypal.me/syedmoinuddin101?country.x=IN&locale.x=en_GB)  
-- **BuyMeACoffee**: [coff.ee/syedmoin](https://coff.ee/syedmoin)
+<br>
+
+### 💳 Support Options
+
+- **UPI ID:** `9701362151@kotak811`  
+- **PayPal:** [paypal.me/syedmoinuddin101](https://paypal.me/syedmoinuddin101)  
+- **Buy Me A Coffee:** [coff.ee/syedmoin](https://coff.ee/syedmoin)
+
+ [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_A_Coffee-yellow)](https://coff.ee/syedmoin)
+[![PayPal](https://img.shields.io/badge/💰-Donate_via_PayPal-blue)](https://paypal.me/syedmoinuddin101)
 
 <p align="center">
   <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/UPI.jpg" alt="UPI QR" width="300"/>
