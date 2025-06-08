@@ -110,15 +110,29 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQL.png?raw=true" alt="SQL Diagram" width="1000"/>
 <br>
 <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQLImage.png?raw=true" alt="SQL Image" width="1000"/>
-## ☕ Support / Sponsor Me
+## ☕ Support My Work
 
-If you find my work helpful, please consider supporting me through any of the following platforms:
+Hi! I'm learning SQL and sharing what I learn through projects and videos.  
+If my work helped you, feel free to support me — it keeps me motivated to create more helpful content!
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-brightgreen?style=flat&logo=github)](https://github.com/sponsors/syedmoinuddin2025)  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-orange?style=flat&logo=buy-me-a-coffee)](https://coff.ee/syedmoin)  
-[![PayPal](https://img.shields.io/badge/PayPal-💰-blue?style=flat&logo=paypal)](https://paypal.me/syedmoinuddin101?country.x=IN&locale.x=en_GB)  
+### 🔗 Support Options:
 
-**UPI ID:** `9701362151@kotak811`
+- **Buy Me a Coffee**: [coff.ee/syedmoin](https://coff.ee/syedmoin)
+- **PayPal**: [paypal.me/syedmoinuddin101](https://paypal.me/syedmoinuddin101?country.x=IN&locale.x=en_GB)
+- **UPI**: `9701362151@kotak811`
 
-Thank you for your support! 🙏
+### 📷 Scan & Support via UPI
+
+<p align="center">
+  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/UPI.jpg" width="300" alt="UPI QR Code">
+</p>
+
+---
+
+### 🏦 Direct Bank Support (India):
+
+- **Account Holder**: Syed Moinuddin  
+- **A/C Number**: `6050026069`  
+- **IFSC Code**: `KKBK0007474`  
+- **Branch**: CHAMPAPET
 
