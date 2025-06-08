@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Syed Moinuddin</h1>
-<h3 align="center">Interested in SQL, coding, and looking for roles in HR-Admin.</h3>
+<h2 align="center">Interested in SQL, coding, and looking for roles in HR-Admin.</h2>
 
  
 <p align="left">
@@ -19,11 +19,10 @@
 </p>
 
 ## 🌱 Currently Learning
-
 - **Microsoft SQL Server** using:
-  - Azure Data Studio
-  - SQL Server Management Studio (SSMS)
-  - **PostgreSQL** and **MySQL**
+ - Azure Data Studio
+ - SQL Server Management Studio (SSMS)
+ - **PostgreSQL** and **MySQL**
 
 ## 🤝 Collaboration & Projects
 
