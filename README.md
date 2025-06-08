@@ -13,16 +13,15 @@
 <h1 align="center">Hi 👋, I'm Syed Moinuddin</h1>
 <h2 align="center">Interested in SQL, coding, and looking for roles in HR-Admin.</h2>
 
- 
 <p align="left">
 <img align="right" alt="SQL, MySQL, PostgreSQL" width="560" height="340" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/Sql-mysql-PSql.png">
 </p>
 
 ## 🌱 Currently Learning
 - **Microsoft SQL Server** using:
- - Azure Data Studio
- - SQL Server Management Studio (SSMS)
- - **PostgreSQL** and **MySQL**
+  - Azure Data Studio
+  - SQL Server Management Studio (SSMS)
+- **PostgreSQL** and **MySQL**
 
 ## 🤝 Collaboration & Projects
 
@@ -52,13 +51,11 @@
 
 Here are some Microsoft SQL Server queries : [LearnSQLWithProjects](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
 
- Also check out my full practical course: [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
+Also check out my full practical course: [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
 
 ### **PostgreSQL** 
 
 Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
-
-
 
 ## 🌐 Connect with Me
 
@@ -85,15 +82,30 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" alt="syed-moinuddin2025" /></p>
 
+---
+
+## ☕ Support My Work
+
+Hi! I'm learning SQL and sharing what I learn through projects and videos.  
+If my work helped you, feel free to buy me a coffee — it keeps me going! 😊
+
+- **UPI ID**: `9701362151@kotak811`  
+- **PayPal**: [paypal.me/syedmoinuddin101](https://paypal.me/syedmoinuddin101?country.x=IN&locale.x=en_GB)  
+- **BuyMeACoffee**: [coff.ee/syedmoin](https://coff.ee/syedmoin)
+
+<p align="center">
+  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/UPI.jpg" alt="UPI QR" width="300"/>
+</p>
+
+---
+
 <!-- Visual Gallery Section -->
 
 <img align="center" alt="coding" width="1400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg">
 <br>
 <img align="center" alt="coding" width="1400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
 <br>
-<div align="center">
-  <img alt="UAE-Airlines" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/UAE-airlines.jpg">
-</div>
+
 <br>
 <div align="center">
   <img alt="Photo" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/photo.jpeg">
@@ -110,29 +122,3 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQL.png?raw=true" alt="SQL Diagram" width="1000"/>
 <br>
 <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQLImage.png?raw=true" alt="SQL Image" width="1000"/>
-## ☕ Support My Work
-
-Hi! I'm learning SQL and sharing what I learn through projects and videos.  
-If my work helped you, feel free to support me — it keeps me motivated to create more helpful content!
-
-### 🔗 Support Options:
-
-- **Buy Me a Coffee**: [coff.ee/syedmoin](https://coff.ee/syedmoin)
-- **PayPal**: [paypal.me/syedmoinuddin101](https://paypal.me/syedmoinuddin101?country.x=IN&locale.x=en_GB)
-- **UPI**: `9701362151@kotak811`
-
-### 📷 Scan & Support via UPI
-
-<p align="center">
-  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/UPI.jpg" width="300" alt="UPI QR Code">
-</p>
-
----
-
-### 🏦 Direct Bank Support (India):
-
-- **Account Holder**: Syed Moinuddin  
-- **A/C Number**: `6050026069`  
-- **IFSC Code**: `KKBK0007474`  
-- **Branch**: CHAMPAPET
-
