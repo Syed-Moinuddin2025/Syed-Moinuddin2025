@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Syed Moinuddin
 
 <div align="center" style="font-size:24px; font-weight:bold;">
     بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
