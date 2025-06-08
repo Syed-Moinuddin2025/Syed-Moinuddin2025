@@ -91,18 +91,27 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 
 <br>
 
-### 💳 Support Options
+<table>
+  <tr>
+    <td>
+
+### 📋 Support Options
 
 - **UPI ID:** `9701362151@kotak811`  
 - **PayPal:** [paypal.me/syedmoinuddin101](https://paypal.me/syedmoinuddin101)  
 - **Buy Me A Coffee:** [coff.ee/syedmoin](https://coff.ee/syedmoin)
 
- [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_A_Coffee-yellow)](https://coff.ee/syedmoin)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_A_Coffee-yellow)](https://coff.ee/syedmoin)
 [![PayPal](https://img.shields.io/badge/💰-Donate_via_PayPal-blue)](https://paypal.me/syedmoinuddin101)
 
-<p align="center">
-  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/UPI.jpg" alt="UPI QR" width="300"/>
-</p>
+</td>
+<td>
+
+<img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/UPI.jpg?raw=true" alt="UPI QR Code" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
