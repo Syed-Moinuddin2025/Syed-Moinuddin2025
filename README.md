@@ -48,13 +48,15 @@
 
 ## 🚀 Let's Start an Exciting SQL Journey!
 
-### Microsoft SQL Server:
+### *** Microsoft SQL Server ***
 
-Here are some Microsoft SQL Server queries I have worked on: [LearnSQLWithProjects](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
+Here are some Microsoft SQL Server queries : [LearnSQLWithProjects](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
 
-### PostgreSQL Examples:
+ Also check out my full practical course: [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
 
-Here are some PostgreSQL queries I have worked on: [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
+### **PostgreSQL** 
+
+Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
 
 
 
@@ -71,13 +73,13 @@ Here are some PostgreSQL queries I have worked on: [postgresql_queries.sql](http
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="60"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="80"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="70"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="70"/>
   </a>
 </p>
 
