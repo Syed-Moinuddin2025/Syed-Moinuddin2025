@@ -84,11 +84,11 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 
 ---
 
-## ☕ Support My Work
+# ☕ Support My Work
 
-> Learning SQL, building cool projects, and sharing them with the world — one query at a time.  
-> Your support helps me stay motivated, keep coding, and yes… keep the coffee flowing! ☕🚀  
-> Support my journey and keep the caffeine + code going strong! ☕💻✨
+### Learning SQL, building cool projects, and sharing them with the world — one query at a time.  
+### Your support helps me stay motivated, keep coding, and yes… keep the coffee flowing! ☕🚀  
+### Support my journey and keep the caffeine + code going strong! ☕💻✨
 
 <br>
 
@@ -96,7 +96,7 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
   <tr>
     <td>
 
-### 📋 Support Options
+## 📋 Support Options
 
 - **UPI ID:** `9701362151@kotak811`  
 - **PayPal:** [paypal.me/syedmoinuddin101](https://paypal.me/syedmoinuddin101)  
@@ -108,7 +108,7 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 </td>
 <td>
 
-<img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/UPI.jpg?raw=true" alt="UPI QR Code" width="220"/>
+<img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/UPI.jpg?raw=true" alt="UPI QR Code" width="320"/>
 
 </td>
 </tr>
