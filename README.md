@@ -122,11 +122,7 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 <img align="center" alt="coding" width="1400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
 <br>
 
-<br>
-<div align="center">
-  <img alt="Photo" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/photo.jpeg">
-</div>
-<br>
+<br>  
 <div align="center">
   <img alt="PostgreSQL-Features" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/PostgreSQL-Basics-for-All/main/images/PostgreSQL-Features.png">
 </div>
@@ -137,4 +133,10 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 <br>
 <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQL.png?raw=true" alt="SQL Diagram" width="1000"/>
 <br>
-<img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQLImage.png?raw=true" alt="SQL Image" width="1000"/>
+ 
+
+ ## 📲 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/syed-moin-hr" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> 
+    <a href="mailto:s4moin123@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> 
+    <a href="https://github.com/Syed-Moinuddin2025" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
+    </a> <a href="https://www.youtube.com/@Learn_More-and-Earn_More" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> </a> </p>
