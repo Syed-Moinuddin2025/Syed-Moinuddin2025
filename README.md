@@ -139,4 +139,4 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 <p align="left"> <a href="https://www.linkedin.com/in/syed-moin-hr" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> 
     <a href="mailto:s4moin123@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> 
     <a href="https://github.com/Syed-Moinuddin2025" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
-    </a> <a href="https://www.youtube.com/@Learn_More-and-Earn_More" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> </a> </p>
+    </a> <a href="https://www.youtube.com/@Learn_More-and-Earn_More-Syed" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> </a> </p>
