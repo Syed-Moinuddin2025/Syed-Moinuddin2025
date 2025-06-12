@@ -2,28 +2,24 @@
 <div align="center" style="font-size:24px; font-weight:bold;">
     بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
 </div>
-
 <br>
-
 <p align="center">
   <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/banner1.png" alt="Banner">
 </p>
-
 <h1 align="center">Hi 👋, I'm Syed Moinuddin</h1>
 <h2 align="center">Interested in SQL, coding, and looking for roles in HR-Admin.</h2>
-
-<p align="left">
+<p align="right">
 <img align="right" alt="SQL, MySQL, PostgreSQL" width="560" height="340" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/Sql-mysql-PSql.png">
 </p>
 
 ## 🌱 Currently Learning
   **Microsoft SQL Server** using:
-    Azure Data Studio
-    SQL Server Management Studio (SSMS)
-  **PostgreSQL** and **MySQL**
+  ###  Azure Data Studio
+  ###  SQL Server Management Studio (SSMS)
+  ###  **PostgreSQL** and **MySQL**
 
 ## 🤝 Collaboration & Projects
- 👯 I’m open to collaborating on meaningful open-source projects
+👯 I’m open to collaborating on meaningful open-source projects
  
 🔍 Actively exploring opportunities to work with like-minded developers
 
@@ -67,18 +63,18 @@ Email: s4moin123@gmail.com
 
 <table>
   <tr>
-    <td align="left" valign="top" width="70%">
+    <td align="right" valign="top" width="70%">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="220" height="100"/>
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="150" height="100"/>
       </a>
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="220" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="150" height="100"/>
       </a>
       <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="220" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="150" height="100"/>
       </a>
     </td>
-    <td align="right" width="40%">
+    <td align="right" width="50%">
       <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Sql-Azure.jpg" alt="SQL Azure" width="500"/>
     </td>
   </tr>
