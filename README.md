@@ -40,11 +40,31 @@
 <p align="left"> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel"/> <img src="https://img.shields.io/badge/MS%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="MS Outlook"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/TallyPrime-0079C1?style=for-the-badge&logo=data&logoColor=white" alt="TallyPrime"/> </p>
  ## ✨ Fun Fact
 
-- Did you know? I started coding because I wanted to automate my daily tasks, and now it’s my biggest passion! 😄
+💡 Did you know?
+I began coding to automate repetitive tasks in my daily work — and that small spark led me into the world of tech, turning curiosity into passion! 🚀😄
 
 # 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Moinuddin2025&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <!-- GitHub Profile Stats -->
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Syed-Moinuddin2025&show_icons=true&theme=radical" 
+        alt="My GitHub Stats" 
+        width="500"
+      />
+    </td>
+    <!-- Top Languages -->
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" 
+        alt="Top Languages" 
+        width="600"
+      />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Let's Start an Exciting SQL Journey!
 
@@ -67,32 +87,24 @@ Email: s4moin123@gmail.com
 
 <table>
   <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" 
-        alt="syed-moinuddin2025" 
-        width="370" 
-        style="transform: scaleY(3.5); display: block;"
-      />
-    </td>
-    <td>
+       <td>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Sql2022.png" alt="SQL Server 2022" width="165" height="95"/>
+        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Sql2022.png" alt="SQL Server 2022" width="365" height="110"/>
       </a>
     </td>
     <td>
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/mySql.png" alt="MySQL (Dark)" width="165" height="95"/>
+        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/mySql.png" alt="MySQL (Dark)" width="365" height="110"/>
       </a>
     </td>
     <td>
       <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Postgres.png " 
-             alt="PostgreSQL (Dark)" width="165" height="95"/>
+        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Psql.png " 
+             alt="PostgreSQL (Dark)" width="395" height="110"/>
       </a>
     </td>
     <td align="right" width="30%">
-      <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Sql-Azure.jpg" alt="SQL Azure" width="300"/>
+      <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Sql-Azure.jpg" alt="SQL Azure" width="360"/>
     </td>
   </tr>
 </table>
