@@ -99,7 +99,7 @@ Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/S
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_A_Coffee-yellow)](https://coff.ee/syedmoin)
 [![PayPal](https://img.shields.io/badge/💰-Donate_via_PayPal-blue)](https://paypal.me/syedmoinuddin101)
 <a href="https://ko-fi.com/syedmoin" target="_blank">
-  <img src="https://storage.ko-fi.com/cdn/kofi5.png" alt="Support Me on Ko-fi" width="180"/>
+  <img src="https://storage.ko-fi.com/cdn/kofi5.png" alt="Support Me on Ko-fi" width="85"/>
 </a>
 </td>
 <td>
