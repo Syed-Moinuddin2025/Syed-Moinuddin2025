@@ -33,7 +33,8 @@
 
 💬 I bring 6+ years of experience as an HR/Admin Assistant, handling office operations, employee data management, 
    and administrative coordination with precision and professionalism.
-📄 Want to explore more? View My CV
+   
+ 📄 Want to explore more? View My CV https://drive.google.com/file/d/1pu3o8bzkUiLdhhyELn4Y1jrcFB-uenGP/view?usp=drive_link
 
  ## ✨ Fun Fact
 
