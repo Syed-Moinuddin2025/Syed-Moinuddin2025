@@ -23,9 +23,11 @@
   **PostgreSQL** and **MySQL**
 
 ## 🤝 Collaboration & Projects
+ 👯 I’m open to collaborating on meaningful open-source projects
+ 
+🔍 Actively exploring opportunities to work with like-minded developers
 
-- 👯 I’m looking to collaborate on **open-source projects**
-- 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/Syed-Moinuddin2025)
+📂 Check out all my work on my [GitHub Profile](https://github.com/Syed-Moinuddin2025)
 
 ## 💼 Professional Background
 
@@ -82,7 +84,6 @@ Email: s4moin123@gmail.com
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" 
        alt="syed-moinuddin2025" width="300"/>
 </p>
----
 
 # ☕ Support My Work
 
