@@ -59,20 +59,29 @@ Email: s4moin123@gmail.com
 
 ## 🛠️ Languages and Tools
 
+<table>
+  <tr>
+    <td align="left" valign="top" width="70%">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="100"/>
+      </a>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/>
+      </a>
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/>
+      </a>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Sql-Azure.jpg" alt="SQL Azure" width="500"/>
+    </td>
+  </tr>
+</table>
+
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="80"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="70"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="70"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" 
+       alt="syed-moinuddin2025" width="300"/>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" alt="syed-moinuddin2025" /></p>
-
 ---
 
 # ☕ Support My Work
