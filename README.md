@@ -36,6 +36,8 @@
    
  📄 Want to explore more? View My CV https://drive.google.com/file/d/1pu3o8bzkUiLdhhyELn4Y1jrcFB-uenGP/view?usp=drive_link
 
+ 🧠 Skills & Tools
+<p align="left"> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel"/> <img src="https://img.shields.io/badge/MS%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="MS Outlook"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/TallyPrime-0079C1?style=for-the-badge&logo=data&logoColor=white" alt="TallyPrime"/> </p>
  ## ✨ Fun Fact
 
 - Did you know? I started coding because I wanted to automate my daily tasks, and now it’s my biggest passion! 😄
