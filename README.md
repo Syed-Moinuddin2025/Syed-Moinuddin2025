@@ -120,13 +120,22 @@ Email: s4moin123@gmail.com
 
 ---
 
+
+
+
+
+
+
+
+
+
+
 <!-- Visual Gallery Section -->
 
 <img align="center" alt="coding" width="1400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg">
 <br>
 <img align="center" alt="coding" width="1400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
 <br>
-
 <br>  
 <div align="center">
   <img alt="PostgreSQL-Features" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/PostgreSQL-Basics-for-All/main/images/PostgreSQL-Features.png">
