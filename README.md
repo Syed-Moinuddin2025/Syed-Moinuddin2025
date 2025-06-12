@@ -87,7 +87,7 @@ Email: s4moin123@gmail.com
     </td>
     <td>
       <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Postgres.png" 
+        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Postgres.png " 
              alt="PostgreSQL (Dark)" width="165" height="95"/>
       </a>
     </td>
