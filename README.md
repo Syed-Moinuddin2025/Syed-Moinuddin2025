@@ -17,10 +17,10 @@
 </p>
 
 ## 🌱 Currently Learning
-- **Microsoft SQL Server** using:
-  - Azure Data Studio
-  - SQL Server Management Studio (SSMS)
-- **PostgreSQL** and **MySQL**
+  **Microsoft SQL Server** using:
+    Azure Data Studio
+    SQL Server Management Studio (SSMS)
+  **PostgreSQL** and **MySQL**
 
 ## 🤝 Collaboration & Projects
 
@@ -63,13 +63,13 @@ Email: s4moin123@gmail.com
   <tr>
     <td align="left" valign="top" width="70%">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" height="100"/>
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="220" height="100"/>
       </a>
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="220" height="100"/>
       </a>
       <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="220" height="100"/>
       </a>
     </td>
     <td align="right" width="40%">
