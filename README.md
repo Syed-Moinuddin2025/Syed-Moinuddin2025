@@ -67,34 +67,33 @@ Email: s4moin123@gmail.com
 
 <table>
   <tr>
- <td>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" 
-    alt="syed-moinuddin2025" 
-    width="370" 
-    style="transform: scaleY(3.5); display: block;"
-  />
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact" 
+        alt="syed-moinuddin2025" 
+        width="370" 
+        style="transform: scaleY(3.5); display: block;"
+      />
     </td>
-   <td>
+    <td>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="165" height="95"/>
+        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Sql2022.png" alt="SQL Server 2022" width="165" height="95"/>
       </a>
     </td>
     <td>
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="165" height="95"/>
+        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/mySql.png" alt="MySQL (Dark)" width="165" height="95"/>
       </a>
     </td>
     <td>
       <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="165" height="95"/>
+        <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Postgres.png" alt="PostgreSQL (Dark)" width="165" height="95"/>
       </a>
     </td>
-  </td>
     <td align="right" width="30%">
       <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Sql-Azure.jpg" alt="SQL Azure" width="300"/>
-   </td>
-    </tr>
+    </td>
+  </tr>
 </table>
 
 
