@@ -44,15 +44,15 @@
 
 ## 🚀 Let's Start an Exciting SQL Journey!
 
-### *** Microsoft SQL Server ***
+## *** Microsoft SQL Server ***
 
-Here are some Microsoft SQL Server queries : [LearnSQLWithProjects](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
+## Here are some Microsoft SQL Server queries : [LearnSQLWithProjects](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
 
-Also check out my full practical course: [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
+## Also check out my full practical course: [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
 
-### **PostgreSQL** 
+## **PostgreSQL** 
 
-Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
+## Here are some PostgreSQL queries : [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
 
 # 🌐 Connect with Me
 <p align="left"> <!-- Twitter --> <a href="https://twitter.com/s4moin" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/syed-moin-hr" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <!-- GitHub --> <a href="https://github.com/Syed-Moinuddin2025" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <!-- Email --> <a href="mailto:s4moin123@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <!-- YouTube --> <a href="https://www.youtube.com/@Learn_More-and-Earn_More-Syed" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> </a> <!-- Instagram --> <a href="https://instagram.com/s4moin" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </p>
