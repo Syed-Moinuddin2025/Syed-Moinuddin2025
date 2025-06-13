@@ -15,7 +15,8 @@
 <p align="right">
 <img align="right" alt="SQL, MySQL, PostgreSQL" width="490" height="230" src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQLThree.png">
 </p>
-  **Microsoft SQL Server** using:
+
+ #### **Microsoft SQL Server** using:
   
   ###  Azure Data Studio
   
