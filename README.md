@@ -8,11 +8,12 @@
 </p>
 <h1 align="center">Hi 👋, I'm Syed Moinuddin</h1>
 <h2 align="center">Interested in SQL, coding, and looking for roles in HR-Admin.</h2>
+
 <p align="right">
-<img align="right" alt="SQL, MySQL, PostgreSQL" width="530" height="340" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/Sql-mysql-PSql.png">
+<img align="right" alt="SQL, MySQL, PostgreSQL" width="530" height="290" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/Sql-mysql-PSql.png">
 </p>
 
-## 🌱 Currently Learning
+  ## 🌱 Currently Learning
 
   **Microsoft SQL Server** using:
   
@@ -22,12 +23,13 @@
   
   ###  **PostgreSQL** and **MySQL**
 
-## 🤝 Collaboration & Projects
-👯 I’m open to collaborating on meaningful open-source projects
+ ##  🤝 Collaboration & Projects
+  
+### 👯 I’m open to collaborating on meaningful open-source projects
  
-🔍 Actively exploring opportunities to work with like-minded developers
+### 🔍 Actively exploring opportunities to work with like-minded developers
 
-📂 Check out all my work on my [GitHub Profile](https://github.com/Syed-Moinuddin2025)
+### 📂 Check out all my work on my [GitHub Profile](https://github.com/Syed-Moinuddin2025)
 
 ## 💼 Professional Background
 
