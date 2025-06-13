@@ -23,7 +23,7 @@
   
   ###  **PostgreSQL** and **MySQL**
 
- ##  🤝 Collaboration & Projects
+ ## 🤝 Collaboration & Projects
   
 ### 👯 I’m open to collaborating on meaningful open-source projects
  
