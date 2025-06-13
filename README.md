@@ -84,9 +84,50 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 ## Practice PostgreSQL queries from this file: : [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
 
 # 🌐 Connect with Me
-<p align="left"> <!-- Twitter --> <a href="https://twitter.com/s4moin" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/syed-moin-hr" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <!-- GitHub --> <a href="https://github.com/Syed-Moinuddin2025" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <!-- Email --> <a href="mailto:s4moin123@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <!-- YouTube --> <a href="https://www.youtube.com/@Learn_More-and-Earn_More-Syed" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> </a> <!-- Instagram --> <a href="https://instagram.com/s4moin" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </p>
 
-Email: s4moin123@gmail.com
+<p align="left">
+  <!-- Twitter -->
+  <a href="https://twitter.com/s4moin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/syed-moin-hr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Syed-Moinuddin2025" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:s4moin123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@Learn_More-and-Earn_More-Syed" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/s4moin" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <!-- Dev.to -->
+  <a href="https://dev.to/syed_moin" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-Blog-black?logo=dev.to&style=for-the-badge" alt="Dev.to">
+  </a>
+
+  <!-- Hashnode -->
+  <a href="https://syedmoin.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-Blog-blue?logo=hashnode&style=for-the-badge" alt="Hashnode">
+  </a>
+</p>
+
+📧 Email: **s4moin123@gmail.com**
 
 ## 🛠️ Languages and Tools
 
@@ -144,24 +185,13 @@ Email: s4moin123@gmail.com
 </a>
 </td>
 <td>
-
 <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/UPI.jpg?raw=true" alt="UPI QR Code" width="320"/>
-
 </td>
 </tr>
 </table>
 
+
 ---
-
-
-
-
-
-
-
-
-
-
 
 <!-- Visual Gallery Section -->
 
