@@ -86,12 +86,12 @@ I began coding to automate repetitive tasks in my daily work — and that small 
   <!-- Twitter (X) -->
   <a href="https://x.com/S4moin" target="_blank "style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
-  </a>  
+  </a> &nbsp; 
 
   <!-- Threads -->
   <a href="https://www.threads.net/@s4moin" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
-  </a> 
+  </a> &nbsp;
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/syed-moin-hr" target="_blank" style="margin-right: 20px;;">
@@ -101,35 +101,35 @@ I began coding to automate repetitive tasks in my daily work — and that small 
   <!-- GitHub -->
   <a href="https://github.com/Syed-Moinuddin2025" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>  
+  </a>  &nbsp;
 
   <!-- Email -->
   <a href="mailto:s4moin123@gmail.com" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a> 
+  </a> &nbsp;
 
   <!-- YouTube -->
   <a href="https://www.youtube.com/@Learn_More-and-Earn_More-Syed" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>  
+  </a>  &nbsp;
 
   <!-- Instagram -->
   <a href="https://instagram.com/s4moin" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a> 
+  </a> &nbsp;
 
   <!-- Dev.to -->
   <a href="https://dev.to/syed_moin" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Dev.to-Blog-black?logo=dev.to&style=for-the-badge" alt="Dev.to">
-  </a>  
+  </a>  &nbsp;
 
   <!-- Hashnode -->
   <a href="https://syedmoin.hashnode.dev/" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Hashnode-Blog-blue?logo=hashnode&style=for-the-badge" alt="Hashnode">
-  </a>
-</p><
+  </a> &nbsp;
+</p>
 
-📧 Email: **s4moin123@gmail.com**
+ 
 
 ## 🛠️ Languages and Tools
 
