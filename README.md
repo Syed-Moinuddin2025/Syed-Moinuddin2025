@@ -9,9 +9,7 @@
 <h1 align="center">Hi 👋, I'm Syed Moinuddin</h1>
 <h2 align="center">Interested in SQL, coding, and looking for roles in HR-Admin.</h2>
 
-
-
-  ## 🌱 Currently Learning
+ ## 🌱 Currently Learning
 <p align="right">
 <img align="right" alt="SQL, MySQL, PostgreSQL" width="490" height="230" src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQLThree.png">
 </p>
@@ -84,11 +82,15 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 ## Practice PostgreSQL queries from this file: : [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
 
 # 🌐 Connect with Me
-
 <p align="left">
-  <!-- Twitter -->
-  <a href="https://twitter.com/s4moin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <!-- Twitter (X) -->
+  <a href="https://x.com/S4moin" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
+  </a>
+
+  <!-- Threads -->
+  <a href="https://www.threads.net/@s4moin" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
   </a>
 
   <!-- LinkedIn -->
@@ -125,7 +127,7 @@ I began coding to automate repetitive tasks in my daily work — and that small 
   <a href="https://syedmoin.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-Blog-blue?logo=hashnode&style=for-the-badge" alt="Hashnode">
   </a>
-</p>
+</p><
 
 📧 Email: **s4moin123@gmail.com**
 
