@@ -7,7 +7,7 @@
   <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/banner1.png" alt="Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Syed Moinuddin</h1>
-<h2 align="center">Interested in SQL, coding, and looking for roles in HR-Admin.</h2>
+<h2 align="center">Interested in SQL, Python ,coding, and looking for roles in HR-Admin.</h2>
 
  ## 🌱 Currently Learning
 <p align="right">
