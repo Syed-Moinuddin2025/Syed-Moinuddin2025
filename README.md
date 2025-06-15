@@ -77,7 +77,14 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 
 ## Explore practical SQL Server queries in the project: [LearnSQLWithProjects](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
 
+## 🔗 Check new project: Python with SQL
+
+## 👉 [LearnSQLWithProjects - Python_SQL_Practice](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/Python_SQL_Practice)
+
+
 ## Also, check out my complete hands-on course: [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
+
+
 
 ## 🐘 PostgreSQL
 
