@@ -11,7 +11,7 @@
 
  ## 🌱 Currently Learning
 <p align="right">
-<img align="right" alt="SQL, MySQL, PostgreSQL" width="520" height="450" src="https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Python_SQL_Practice/Images/Python_Sql.png ">
+<img align="right" alt="SQL, MySQL, PostgreSQL" width="420" height="420" src="https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Python_SQL_Practice/Images/Python_Sql.png ">
 </p>
 
 ### 📌 Python (with SQL integration)  
