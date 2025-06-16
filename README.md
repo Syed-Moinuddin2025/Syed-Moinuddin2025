@@ -14,14 +14,17 @@
 <img align="right" alt="SQL, MySQL, PostgreSQL" width="490" height="230" src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQLThree.png">
 </p>
 
- #### **Microsoft SQL Server** using:
-  
-  ###  Azure Data Studio
-  
-  ###  SQL Server Management Studio (SSMS)
-  
-  ###  **PostgreSQL** and **MySQL**
+### 📌 Python (with SQL integration)  
 
+### 📌 SQL Databases: Microsoft SQL Server, MySQL, PostgreSQL  
+
+### 🛠 **Tools & Platforms**  
+### 💻 Azure Data Studio  
+### 🧠 SQL Server Management Studio (SSMS)  
+### 🐘 PostgreSQL & 🐬 MySQL  
+### 📝 Visual Studio Code (VS Code)  
+### 📒 Jupyter Notebook
+   
  ## 🤝 Collaboration & Projects
   
 ### 👯 I’m open to collaborating on meaningful open-source projects
