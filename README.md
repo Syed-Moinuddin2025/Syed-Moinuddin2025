@@ -217,6 +217,9 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 <br>
 <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQL.png?raw=true" alt="SQL Diagram" width="1000"/>
 <br>
- 
+ <div align="center">
+  <img alt="Python for Beginners" width="800" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/Python.png">
+</div>
+
  
 
