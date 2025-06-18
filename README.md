@@ -74,14 +74,13 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 
 ## 💼 Microsoft SQL Server
 
-##  🚀 Explore real-life **SQL Server + Python queries** for hands-on data practice. :        [SQL-Python-Learning-Journey](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
+## 🚀 Real-world SQL & Python queries in action  [SQL-Python-Learning-Journey](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
 
 ## ❤️ Check new project: Python with SQL 👉 [ Python_SQL_Practice](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/Python_SQL_Practice)
 
+## 🐍 Python for Beginners — A complete, step-by-step learning journey  [Start learning now »](https://github.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey)
 
-## 🐍 Python for Beginners >>>  Explore my step-by-step learning journey in Python!  
-## 👉 [Complete Python for Beginners on GitHub](https://github.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey) 
-## Also, check out my complete hands-on course: [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
+## 🎡  Check out my full SQL course [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
 
 ## 🐘 PostgreSQL
 
