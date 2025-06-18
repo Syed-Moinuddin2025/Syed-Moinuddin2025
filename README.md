@@ -80,12 +80,8 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 
 
 ## 🐍 Python for Beginners >>>  Explore my step-by-step learning journey in Python!  
-## 👉 [Complete Python for Beginners on GitHub](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/Complete%20Python%20for%20beginners) [![Python Course](https://img.shields.io/badge/Python-Beginners%20Course-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/Complete%20Python%20for%20beginners)
-
-
+## 👉 [Complete Python for Beginners on GitHub](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/Complete%20Python%20for%20beginners) 
 ## Also, check out my complete hands-on course: [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
-
-
 
 ## 🐘 PostgreSQL
 
