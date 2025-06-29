@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/banner1.png" alt="Banner">
 </p>
+
 <h1 align="center">Hi 👋, I'm Syed Moinuddin</h1>
 <h2 align="center">Interested in SQL, Python ,coding, and looking for roles in HR-Admin.</h2>
 
@@ -206,6 +207,9 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 <br>
 <img align="center" alt="coding" width="1400" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg">
 <br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/Images/Image123.png" alt="SQL-Python Banner" width="1000" height="600">
+</div>
 <br>  
 <div align="center">
   <img alt="PostgreSQL-Features" width="1600" src="https://raw.githubusercontent.com/Syed-Moinuddin2025/PostgreSQL-Basics-for-All/main/images/PostgreSQL-Features.png">
