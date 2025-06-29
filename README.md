@@ -75,9 +75,11 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 
 ## 💼 Microsoft SQL Server
 
-## 🚀 Real-world SQL & Python queries in action  [SQL-Python-Learning-Journey](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
+## 🚀 Real-world SQL & Python queries in action  [Python-Learning-Journey](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
 
-## ❤️ Check new project: Python with SQL 👉 [ Python_SQL_Practice](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/Python_SQL_Practice)
+## ❤️ Check new project: SQL 👉 [SQL_Practice](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/sql_journey)
+
+https://github.com/Syed-Moinuddin2025/sql_journey
 
 ## 🐍 Python for Beginners — A complete, step-by-step learning journey  [Start learning now »](https://github.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/tree/main/python_basics)
 
