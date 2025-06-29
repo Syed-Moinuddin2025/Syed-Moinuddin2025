@@ -79,7 +79,8 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 ## 🚀 Let's Start an Exciting SQL Journey!👋
 ## 💼 Microsoft SQL Server
 
-## ❤️ Check new project: SQL 👉 [SQLfor Beginners_step-by-step learning journey](https://github.com/Syed-Moinuddin2025/sql_journey)
+## ❤️ Check out my new project: [SQL-For-Beginners-_Step-By-Step Learning](https://github.com/Syed-Moinuddin2025/sql_journey) — Learn SQL through mini projects and real-world examples!
+
 ## 🎡  Check out my full SQL course [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
 
 ## 🐘 PostgreSQL
