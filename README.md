@@ -77,7 +77,7 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 
 ## 🚀 Real-world SQL & Python queries in action  [Python-Learning-Journey](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
 
-## ❤️ Check new project: SQL 👉 [SQL_Practice](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/tree/main/sql_journey)
+## ❤️ Check new project: SQL 👉 [SQL_Practice](https://https://github.com/Syed-Moinuddin2025/tree/main/sql_journey)
 
 https://github.com/Syed-Moinuddin2025/sql_journey
 
