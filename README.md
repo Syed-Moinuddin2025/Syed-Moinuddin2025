@@ -71,18 +71,16 @@ I began coding to automate repetitive tasks in my daily work — and that small 
   </tr>
 </table>
 
-## 🚀 Let's Start an Exciting SQL Journey!
+## 🚀 Let's Start an Exciting Python Journey!
 
+## Real-world Python queries in action  [Python-Learning-Journey](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
+## 🐍 Python for Beginners — A complete, step-by-step learning journey  [Start learning now »](https://github.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/tree/main/python_basics)
+
+## 🚀 Let's Start an Exciting SQL Journey!👋
 ## 💼 Microsoft SQL Server
 
-## 🚀 Real-world Python queries in action  [Python-Learning-Journey](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
-## 🐍 Python for Beginners — A complete, step-by-step learning journey  [Start learning now »](https://github.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/tree/main/python_basics)
 ## ❤️ Check new project: SQL 👉 [SQLfor Beginners_step-by-step learning journey](https://github.com/Syed-Moinuddin2025/sql_journey)
 ## 🎡  Check out my full SQL course [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
-
-
-
-
 
 ## 🐘 PostgreSQL
 
