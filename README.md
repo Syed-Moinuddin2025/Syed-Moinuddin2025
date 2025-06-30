@@ -14,8 +14,7 @@
 <p align="right">
 <img align="right" alt="sqlandpythonsp" width="420" height="420" src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/sqlandpythonsp.png ">
 </p>
-https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/sqlandpythonsp.png
-https://
+
 ### 📌 Python (with SQL integration)  
 
 ### 📌 SQL Databases: Microsoft SQL Server, MySQL, PostgreSQL  
@@ -75,14 +74,14 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 ## 🚀 Let's Start an Exciting Python Journey!
 
 ## Real-world Python queries in action  [Python-Learning-Journey](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
-## 🐍 Python for Beginners — A complete, step-by-step learning journey  [Start learning now »](https://github.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/tree/main/python_basics)
+
 
 ## 🚀 Let's Start an Exciting SQL Journey!👋
 ## 💼 Microsoft SQL Server
 
 ## ❤️ Check out my new project: [SQL-For-Beginners-Step-By-Step Learning](https://github.com/Syed-Moinuddin2025/sql_journey) — Learn SQL through mini projects and real-world examples!
 
-## 🎡  Check out my full SQL course [SQL-Full-Course-for-Beginners](https://github.com/Syed-Moinuddin2025/SQL-Full-Course-for-Beginners)
+
 
 ## 🐘 PostgreSQL
 
