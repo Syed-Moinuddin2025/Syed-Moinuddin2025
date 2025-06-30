@@ -12,9 +12,10 @@
 
  ## 🌱 Currently Learning
 <p align="right">
-<img align="right" alt="SQL, MySQL, PostgreSQL" width="420" height="420" src="https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Python_SQL_Practice/Images/Python_Sql.png ">
+<img align="right" alt="sssp" width="420" height="420" src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/sssp.png ">
 </p>
 
+https://
 ### 📌 Python (with SQL integration)  
 
 ### 📌 SQL Databases: Microsoft SQL Server, MySQL, PostgreSQL  
