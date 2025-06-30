@@ -12,9 +12,9 @@
 
  ## 🌱 Currently Learning
 <p align="right">
-<img align="right" alt="sssp" width="420" height="420" src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/sssp.png ">
+<img align="right" alt="sqlandpythonsp" width="420" height="420" src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/sqlandpythonsp.png ">
 </p>
-
+https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/sqlandpythonsp.png
 https://
 ### 📌 Python (with SQL integration)  
 
