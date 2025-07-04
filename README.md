@@ -74,14 +74,14 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 ## 🚀 Let's Start an Exciting Python Journey!
 
 ## Real-world Python queries in action  [Python-Learning-Journey](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
-
+## 🍎 Check out Apple_Store_Analytics_Project in Python: [Apple_Store_Project❤️]( https://github.com/Syed-Moinuddin2025/python_Journey/tree/main/01_Apple_Store_Analytics_Project)
 
 ## 🚀 Let's Start an Exciting SQL Journey!👋
 ## 💼 Microsoft SQL Server
 
 ## ❤️ Check out my all projects: [SQL-For-Beginners-Step-By-Step Learning](https://github.com/Syed-Moinuddin2025/sql_journey) — Learn SQL through mini projects and real-world examples!
 
-## 🍏 Check out Apple_Store_Analytics_Project: [Apple_Store_Project❤️](https://github.com/Syed-Moinuddin2025/sql-learning-journey/tree/main/09_Apple_store_project)
+## 🍏 Check out Apple_Store_Analytics_Project in SQL: [Apple_Store_Project❤️](https://github.com/Syed-Moinuddin2025/sql-learning-journey/tree/main/09_Apple_store_project)
 
 ## 🐘 PostgreSQL
 
