@@ -75,6 +75,7 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 
 ## Real-world Python queries in action  [Python-Learning-Journey](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects)
 ## 🍎 Check out Apple_Store_Analytics_Project in Python: [Apple_Store_Project❤️]( https://github.com/Syed-Moinuddin2025/python_Journey/tree/main/01_Apple_Store_Analytics_Project)
+## 🪔 Check out Diwali_Sales_Analysis_Project in Python: [🪔 Diwali_Sales_Analysis_Project](https://github.com/Syed-Moinuddin2025/python_Journey/tree/main/3_Diwali_Sales_Analysis)
 
 ## 🚀 Let's Start an Exciting SQL Journey!👋
 ## 💼 Microsoft SQL Server
