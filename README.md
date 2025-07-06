@@ -84,6 +84,9 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 
 ## 🍏 Check out Apple_Store_Analytics_Project in SQL: [Apple_Store_Project❤️](https://github.com/Syed-Moinuddin2025/sql-learning-journey/tree/main/09_Apple_store_project)
 
+## 🍕 Check out Pizza_Sales_Project in SQL: [Pizza_Sales_Project](https://github.com/Syed-Moinuddin2025/sql-learning-journey/tree/main/07_pizza_sales_project)
+                
+
 ## 🐘 PostgreSQL
 
 ## Practice PostgreSQL queries from this file: : [postgresql_queries.sql](https://github.com/Syed-Moinuddin2025/SQL-Basics-for-All)
