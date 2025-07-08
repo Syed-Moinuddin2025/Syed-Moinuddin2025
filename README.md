@@ -75,9 +75,10 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 
 ## Real-world Python queries in action  [python_projects_analyses](https://github.com/Syed-Moinuddin2025/python_projects_analyses)
 
-## 🍎 Check out Apple_Store_Analytics_Project in Python: [Apple_Store_Analysis❤️](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/01_Apple_Store_Analysis)
+## 🍎 Check out Apple_Store_Analytics_Project in Python: [1_Apple_Store_Analysis❤️](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/01_Apple_Store_Analysis)
 
-## 🪔 Check out Diwali_Sales_Analysis_Project in Python: [🪔 Diwali_Sales_Analysis_Project](https://github.com/Syed-Moinuddin2025/python_Journey/tree/main/3_Diwali_Sales_Analysis)
+## 🪔 Check out Diwali_Sales_Analysis_Project in Python: [🪔 2_Diwali_Sales_Analysis_Project](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/02_Diwali_Sales_Analysis)
+
 ##  🍕👌 Check out Pizza_Sales_Project in Python:  [🍕 Pizza_Sales_Project](https://github.com/Syed-Moinuddin2025/python_Journey/tree/main/05__Pizza_Sales_Project_Python)
 
 ## 🚀 Let's Start an Exciting SQL Journey!👋
