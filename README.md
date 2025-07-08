@@ -72,6 +72,7 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 </table>
 
 ## 🚀 Let's Start an Exciting Python Journey!
+## For-Beginners-Step-By-Step Learning [Basic Python for lovers](https://github.com/Syed-Moinuddin2025/python_Journey)
 
 ## Real-world Python queries in action  [python_projects_analyses](https://github.com/Syed-Moinuddin2025/python_projects_analyses)
 
