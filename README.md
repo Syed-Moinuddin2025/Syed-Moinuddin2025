@@ -73,14 +73,21 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 
 ## 🚀 Let's Start an Exciting Python Journey!
 ## For-Beginners-Step-By-Step Learning [Basic Python for lovers](https://github.com/Syed-Moinuddin2025/python_Journey)
-
+# |:--:|:-------------|:------------|
 ## Real-world Python queries in action  [python_projects_analyses](https://github.com/Syed-Moinuddin2025/python_projects_analyses)
 
-## 🍎 Check out Apple_Store_Analytics_Project in Python: [🍎Apple_Store_Analysis❤️](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/01_Apple_Store_Analysis)
 
-## 🪔 Check out Diwali_Sales_Analysis_Project in Python: [🪔Diwali_Sales_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/02_Diwali_Sales_Analysis)
+## | 1️⃣ | [🍎01_Apple_Store_Analysis](./01_Apple_Store_Analysis) | Insights from Apple Store data such as sales, categories, countries, and warranty patterns. |
+## | 2️⃣ | [🪔02_Diwali_Sales_Analysis](./02_Diwali_Sales_Analysis) | Retail insights from Diwali festival shopping — customer behavior, product performance, and revenue trends. |
+## | 3️⃣ | [🏪03_Blinkit_Analysis](./03_Blinkit_Analysis) | Blinkit (quick commerce) analysis focusing on products, pricing, and delivery patterns. |
+## | 4️⃣ | [👌04_Ecommerce_Sales_Analysis](./04_Ecommerce_Sales_Analysis) | Sales, profit, and product trends from an e-commerce store’s transaction data. |
+## | 5️⃣ | [🍕05_Pizza_Sales_Analysis](./05_Pizza_Sales_Analysis) | Deep dive into pizza orders — top sellers, peak hours, revenue KPIs, and customer preferences. |
+## | 6️⃣ | [🎡06_Zomato_Clean_Project](./06_Zomato_Clean_Project) | Cleaned Zomato restaurant dataset for further modeling or visualization. |
+## | 7️⃣ | [🖼️07_Netflix_Data_Analysis](./07_Netflix_Data_Analysis) | Netflix data analysis on movie types, viewer trends, popular genres, and release patterns. |
+## | 8️⃣ | [🚘08_Uber Data Analysis Project](./08_Uber%20Data%20Analysis%20Project) | Uber ride data insights like booking times, trip purpose, distance, and weekday trends. |
+## | 9️⃣ | [☕09_Coffee_Shop_Sales_Analysis](./09_Coffee_Shop_Sales_Analysis) | Coffee shop performance — product-wise sales, seasonal trends, and customer patterns. |
+## | 🔟 | [✈️10_Flight_Performance_Analysis](./10_Flight_Performance_Analysis) | Flight delays and airline performance metrics using US airport and carrier data. |
 
-##  🍕👌 Check out Pizza_Sales_Project in Python:  [🍕Pizza_Sales_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/05_Pizza_Sales_Analysis)
 
 ## 🚀 Let's Start an Exciting SQL Journey!👋
 ## 💼 Microsoft SQL Server
