@@ -73,10 +73,9 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 
 ## 🚀 Let's Start an Exciting Python Journey!
 ## For-Beginners-Step-By-Step Learning [Basic Python for lovers](https://github.com/Syed-Moinuddin2025/python_Journey)
-# |:--:|:-------------|:------------|
+ 
 ## Real-world Python queries in action  [python_projects_analyses](https://github.com/Syed-Moinuddin2025/python_projects_analyses)
-
-
+# 📁 Please check out my data analysis projects:👇
 | No. | Project                                                                                                                          | Summary                                                      |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------- |
 | 1️⃣ | [🍎 Apple Store Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/01_Apple_Store_Analysis)      | App performance, ratings, and pricing trends.                |
