@@ -77,7 +77,7 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 ## Real-world Python queries in action  [python_projects_analyses](https://github.com/Syed-Moinuddin2025/python_projects_analyses)
 
 
-## | 1️⃣ | [🍎01_Apple_Store_Analysis](./01_Apple_Store_Analysis) | Insights from Apple Store data such as sales, categories, countries, and warranty patterns. |
+## | 1️⃣ | [🍎01_Apple_Store_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/01_Apple_Store_Analysis) | Insights from Apple Store data such as sales, categories, countries, and warranty patterns. |
 ## | 2️⃣ | [🪔02_Diwali_Sales_Analysis](./02_Diwali_Sales_Analysis) | Retail insights from Diwali festival shopping — customer behavior, product performance, and revenue trends. |
 ## | 3️⃣ | [🏪03_Blinkit_Analysis](./03_Blinkit_Analysis) | Blinkit (quick commerce) analysis focusing on products, pricing, and delivery patterns. |
 ## | 4️⃣ | [👌04_Ecommerce_Sales_Analysis](./04_Ecommerce_Sales_Analysis) | Sales, profit, and product trends from an e-commerce store’s transaction data. |
