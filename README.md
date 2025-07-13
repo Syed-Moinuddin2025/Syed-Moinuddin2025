@@ -77,16 +77,19 @@ I began coding to automate repetitive tasks in my daily work — and that small 
 ## Real-world Python queries in action  [python_projects_analyses](https://github.com/Syed-Moinuddin2025/python_projects_analyses)
 
 
-## | 1️⃣ | [🍎01_Apple_Store_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/01_Apple_Store_Analysis) | Insights from Apple Store data such as sales, categories, countries, and warranty patterns. |
-## | 2️⃣ | [🪔02_Diwali_Sales_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/02_Diwali_Sales_Analysis) | Retail insights from Diwali festival shopping — customer behavior, product performance, and revenue trends. |
-## | 3️⃣ | [🏪03_Blinkit_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/03_Blinkit_Analysis) | Blinkit (quick commerce) analysis focusing on products, pricing, and delivery patterns. |
-## | 4️⃣ | [👌04_Ecommerce_Sales_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/04_Ecommerce_Sales_Analysis) | Sales, profit, and product trends from an e-commerce store’s transaction data. |
-## | 5️⃣ | [🍕05_Pizza_Sales_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/05_Pizza_Sales_Analysis) | Deep dive into pizza orders — top sellers, peak hours, revenue KPIs, and customer preferences. |
-## | 6️⃣ | [🎡06_Zomato_Clean_Project](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/06_Zomato_Clean_Project) | Cleaned Zomato restaurant dataset for further modeling or visualization. |
-## | 7️⃣ | [🖼️07_Netflix_Data_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/07_Netflix_Data_Analysis) | Netflix data analysis on movie types, viewer trends, popular genres, and release patterns. |
-## | 8️⃣ | [🚘08_Uber Data Analysis Project](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/08_Uber%20Data%20Analysis%20Project) | Uber ride data insights like booking times, trip purpose, distance, and weekday trends. |
-## | 9️⃣ | [☕09_Coffee_Shop_Sales_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/09_Coffee_Shop_Sales_Analysis) | Coffee shop performance — product-wise sales, seasonal trends, and customer patterns. |
-## | 🔟 | [✈️10_Flight_Performance_Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/10_Flight_Performance_Analysis) | Flight delays and airline performance metrics using US airport and carrier data. |
+| No. | Project                                                                                                                          | Summary                                                      |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------- |
+| 1️⃣ | [🍎 Apple Store Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/01_Apple_Store_Analysis)      | App performance, ratings, and pricing trends.                |
+| 2️⃣ | [🪔 Diwali Sales Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/02_Diwali_Sales_Analysis)    | Festival shopping insights — sales, customers, and products. |
+| 3️⃣ | [🏪 Blinkit Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/03_Blinkit_Analysis)              | Quick commerce trends — pricing, products, delivery.         |
+| 4️⃣ | [👌 E-commerce Sales](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/04_Ecommerce_Sales_Analysis)      | Sales, profit, and product insights.                         |
+| 5️⃣ | [🍕 Pizza Sales](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/05_Pizza_Sales_Analysis)               | Top pizzas, order timing, revenue KPIs.                      |
+| 6️⃣ | [🎡 Zomato Cleaned Data](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/06_Zomato_Clean_Project)       | Cleaned dataset for restaurant analysis.                     |
+| 7️⃣ | [🖼️ Netflix Data Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/07_Netflix_Data_Analysis)   | Genres, trends, and viewer behavior.                         |
+| 8️⃣ | [🚘 Uber Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/08_Uber%20Data%20Analysis%20Project) | Trip timings, ride purpose, and distance insights.           |
+| 9️⃣ | [☕ Coffee Shop Sales](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/09_Coffee_Shop_Sales_Analysis)    | Product sales, seasonal trends, customers.                   |
+| 🔟 | [✈️ Flight Performance](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/10_Flight_Performance_Analysis) | Delays, distance, and airline performance.                   |
+
 
 
 ## 🚀 Let's Start an Exciting SQL Journey!👋
