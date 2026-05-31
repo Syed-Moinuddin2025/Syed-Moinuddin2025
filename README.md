@@ -71,7 +71,11 @@ I began coding to automate repetitive tasks in my daily work — and that small 
   </tr>
 </table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Syed-Moinuddin2025)
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Syed-Moinuddin2025&label=VISITORS&color=blue&style=for-the-badge" alt="Profile Views">
+</p>
 ## 🚀 Let's Start an Exciting Python Journey!
 ## For-Beginners-Step-By-Step Learning [Basic Python for lovers](https://github.com/Syed-Moinuddin2025/python_Journey)
  
