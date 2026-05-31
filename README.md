@@ -138,7 +138,7 @@ I began coding to automate repetitive tasks in my daily work — and that small 
   </a>  
 
   <!-- Instagram -->
-  <a href="https://instagram.com/s4moin" target="_blank" style="margin-right: 10px;">
+  <a href="https://instagram.com/musehubcraetive" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>  
 
