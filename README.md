@@ -71,6 +71,7 @@ I began coding to automate repetitive tasks in my daily work — and that small 
   </tr>
 </table>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Syed-Moinuddin2025)
 ## 🚀 Let's Start an Exciting Python Journey!
 ## For-Beginners-Step-By-Step Learning [Basic Python for lovers](https://github.com/Syed-Moinuddin2025/python_Journey)
  
