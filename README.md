@@ -96,7 +96,7 @@
 | 7️⃣ | [🖼️ Netflix Data Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/07_Netflix_Data_Analysis) | 🐍 `Python` 🍿 `EDA` | Genres, trends, and viewer behavior. |
 | 8️⃣ | [🚘 Uber Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/08_Uber%20Data%20Analysis%20Project) | 🐍 `Python` 🗺️ `Folium` | Trip timings, ride purpose, and distance insights. |
 | 9️⃣ | [☕ Coffee Shop Sales](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/09_Coffee_Shop_Sales_Analysis) | 📊 `Power BI` ☕ `Sales` | Product sales, seasonal trends, customers. |
-| 🔟 | [✈️ Flight Performance](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/10_Flight_Performance_Analysis) | 🐍 `Python` 🛢️ `SQL` | Delays, distance, and airline performance. |
+| 10️⃣ | [✈️ Flight Performance](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/10_Flight_Performance_Analysis) | 🐍 `Python` 🛢️ `SQL` | Delays, distance, and airline performance. |
 
 ---
 
@@ -142,10 +142,16 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Moinuddin2025&show_icons=true&theme=tokyonight&count_private=true" alt="My GitHub Stats" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="100%"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Syed-Moinuddin2025&show_icons=true&theme=radical&count_private=true" alt="My GitHub Stats" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syed-Moinuddin2025&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
