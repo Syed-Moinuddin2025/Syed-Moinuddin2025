@@ -10,11 +10,11 @@
   <img src="https://raw.githubusercontent.com/HiDeoo/HiDeoo/master/Images/Wave.gif" width="30px">
   Hi 👋, I'm Syed Moinuddin
 </h1>
-<h3 align="center">HR-Admin Professional | SQL & Python Learner | Tech-Driven HR</h3>
+<h3 align="center">HR-Admin Professional | SQL, Python & HTML-CSS-JS Learner | Tech-Driven HR</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=6%2B+Years+of+HR+%26+Admin+Exp;SQL+%26+Python+Enthusiast;Multilingual+Documentation;HR+Process+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=6%2B+Years+of+HR+%26+Admin+Exp;SQL+%26+Python+Enthusiast;HTML%2C+CSS+%26+JS+Learner;HR+Process+Automation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,12 +47,15 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### 🐍 Programming & Database Management
+### 💻 Programming, Databases & Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### 📊 Office Admin, BI & Accounting
@@ -75,7 +78,7 @@
 ---
 
 ## 🤝 Collaboration & Core Focus
-* 👯 I’m highly open to collaborating on meaningful open-source and data projects.
+* 👯 I’m highly open to collaborating on meaningful open-source, web development, and data projects.
 * 🔍 Actively exploring opportunities to work with like-minded developers and HR Tech professionals.
 * 📂 Check out all my work on my [GitHub Profile](https://github.com/Syed-Moinuddin2025).
 
@@ -125,119 +128,19 @@
       </ul>
     </td>
   </tr>
-</table>
-
----
-
-## 🛢️ Database Ecosystem
-
-<p align="center">
-  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Sql2022.png" alt="SQL Server 2022" width="23%" style="margin: 5px;"/>
-  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/mySql.png" alt="MySQL" width="23%" style="margin: 5px;"/>
-  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Psql.png" alt="PostgreSQL" width="23%" style="margin: 5px;"/>
-  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/Sql-Azure.jpg" alt="SQL Azure" width="23%" style="margin: 5px;"/>
-</p>
-
----
- 
-
-# 📊 GitHub Analytics
-
-<table align="center" width="100%">
   <tr>
-    <!-- GitHub Contribution Streak Stats (Highly Stable) -->
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Moinuddin2025&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="100%"/>
-    </td>
-    <!-- GitHub Profile Trophies (Gives a Gamified & Colorful Look) -->
-    <td align="center" width="50%">
-      <img src="https://github-profile-trophies.vercel.app/?username=Syed-Moinuddin2025&theme=radical&column=3&margin-w=15" alt="GitHub Trophies" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Live Profile View Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syed-Moinuddin2025&label=VISITORS&color=blue&style=for-the-badge" alt="Profile Views">
-</p>
-
----
-
-# 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-moin-hr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:s4moin123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://x.com/S4moin" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://github.com/Syed-Moinuddin2025" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.youtube.com/@Learn_More-and-Earn_More-Syed" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <br>
-  <a href="https://instagram.com/musehubcraetive" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://dev.to/syed_moin" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
-  <a href="https://syedmoin.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
-  <a href="https://www.threads.net/@s4moin" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
-</p>
-
----
-
-# ☕ Support My Work
-
-Learning SQL, building cool projects, and sharing them with the world — one query at a time.  
-Your support helps me stay motivated, keep coding, and yes… keep the coffee flowing! ☕🚀
-
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="50%">
-      <h3>💳 Donation Options</h3>
-      <p>
-        <a href="https://coff.ee/syedmoin" target="_blank">
-          <img src="https://img.shields.io/badge/☕-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-        </a>
-      </p>
-      <p>
-        <a href="https://paypal.me/syedmoinuddin101" target="_blank">
-          <img src="https://img.shields.io/badge/💰-Donate_via_PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-        </a>
-      </p>
-      <p>
-        <a href="https://ko-fi.com/syedmoin" target="_blank">
-          <img src="https://storage.ko-fi.com/cdn/kofi5.png" alt="Support Me on Ko-fi" height="40"/>
-        </a>
-      </p>
-      <p><strong>UPI ID:</strong> <code>9701362151@kotak811</code></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>📱 Scan to Support (UPI QR)</h3>
-      <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/UPI.jpg?raw=true" alt="UPI QR Code" width="180" style="border-radius: 12px; border: 2px solid #ddd; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    <td colspan="3" valign="top">
+      <h3>🌐 Web Development (HTML • CSS • JS)</h3>
+      <ul>
+        <li>💻 <a href="https://github.com/Syed-Moinuddin2025/html-css-js-journey">Frontend Learning Journey</a> - Building modern, responsive web structures, creative layouts, and interactive functionalities.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-1.jpg" alt="Coding Banner 1" width="49%">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/AD-2.jpg" alt="Coding Banner 2" width="49%">
-</p>
+## 🛢️ Database & Dev Ecosystem
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/Images/Image123.png" alt="SQL-Python Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/PostgreSQL-Basics-for-All/main/images/PostgreSQL-Features.png" alt="PostgreSQL-Features" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/PostgreSQL-Basics-for-All/main/images/postgreSQL-Image2.png" alt="postgreSQL-Image2" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/SQL.png?raw=true" alt="SQL Diagram" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/Python.png" alt="Python for Beginners" width="100%">
-</p>
+  <img src="
