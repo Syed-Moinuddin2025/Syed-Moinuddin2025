@@ -202,7 +202,7 @@ Your support helps me stay motivated, keep coding, and yes… keep the coffee fl
   <a href="https://paypal.me/syedmoinuddin101" target="_blank">
     <img src="https://img.shields.io/badge/💰-Donate_via_PayPal-blue?style=for-the-badge" alt="PayPal"/>
   </a> &nbsp;
-  <a href="https://ko-fi.com/syedmoin" target="_blank">
+   <a href="https://coff.ee/syedmoin" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi5.png" alt="Support Me on Ko-fi" height="40"/>
   </a>
 </p>
