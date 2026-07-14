@@ -139,22 +139,26 @@
 </p>
 
 ---
+ 
 
 # 📊 GitHub Analytics
 
 <table align="center" width="100%">
   <tr>
+    <!-- GitHub Contribution Streak Stats (Highly Stable) -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Syed-Moinuddin2025&show_icons=true&theme=radical&count_private=true" alt="My GitHub Stats" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Moinuddin2025&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="100%"/>
     </td>
+    <!-- GitHub Profile Trophies (Gives a Gamified & Colorful Look) -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syed-Moinuddin2025&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
+      <img src="https://github-profile-trophies.vercel.app/?username=Syed-Moinuddin2025&theme=radical&column=3&margin-w=15" alt="GitHub Trophies" width="100%"/>
     </td>
   </tr>
 </table>
 
 <br>
 
+<!-- Live Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Syed-Moinuddin2025&label=VISITORS&color=blue&style=for-the-badge" alt="Profile Views">
 </p>
