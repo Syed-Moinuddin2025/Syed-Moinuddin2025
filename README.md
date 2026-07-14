@@ -143,8 +143,8 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Moinuddin2025&show_icons=true&theme=tokyonight&count_private=true" alt="My GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Moinuddin2025&show_icons=true&theme=tokyonight&count_private=true" alt="My GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-moinuddin2025&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="100%"/>
 </p>
 
 <br>
