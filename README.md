@@ -142,14 +142,16 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3" valign="top">
-      <h3>🌐 Full-Stack Frontend Web Architecture (HTML5 • CSS3 • JavaScript)</h3>
-      <ul>
-        <li>💻 <a href=" https://syed-moinuddin2025.github.io/web-development-journey/01-HTML-Basics/ " target="_blank">Interactive Frontend Applications Journey</a> - Crafting standard-compliant semantic web nodes, modular responsive layout engines, dynamic interactive logic, and automated client validation structures.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+   <td colspan="3" valign="top">
+  <h3>🌐 Full-Stack Frontend Web Architecture (HTML5 • CSS3 • JavaScript)</h3>
+  <ul>
+    <li>
+      💻 <a href="https://syed-moinuddin2025.github.io/web-development-journey/01-HTML-Basics/">
+      Interactive Frontend Applications Journey
+      </a> - Crafting standard-compliant semantic web nodes, modular responsive layout engines, dynamic interactive logic, and automated client validation structures.
+    </li>
+  </ul>
+</td>
 
 ---
 <p align="center">
