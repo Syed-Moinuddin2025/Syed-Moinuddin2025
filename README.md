@@ -78,14 +78,24 @@
 
 ---
 
-## 📈 Git Activity & Performance Stats
+# 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Syed-Moinuddin2025&show_icons=true&theme=radical&count_private=true" alt="Syed Moinuddin's GitHub profile statistics" width="48%"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Moinuddin2025&layout=compact&theme=radical" alt="Syed Moinuddin's most used coding languages chart" width="48%"/>
-  </a>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syed-Moinuddin2025&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Moinuddin2025&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Syed-Moinuddin2025&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
