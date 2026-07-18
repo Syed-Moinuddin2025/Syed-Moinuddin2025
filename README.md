@@ -3,7 +3,7 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/banner1.png" alt="Syed Moinuddin - HR Automation & Data Analyst Portfolio Banner" width="100%">
+  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/banner.png" alt="Syed Moinuddin - HR Automation & Data Analyst Portfolio Banner" width="100%">
 </p>
 
 <h1 align="center">
