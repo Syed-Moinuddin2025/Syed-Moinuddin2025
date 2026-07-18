@@ -24,7 +24,7 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <p>💬 <strong>About Me:</strong> I am a highly seasoned <strong>HR & Admin Operations Professional</strong> with <strong>6+ years of proven expertise</strong> in managing corporate office workflows, employee database systems, and high-accuracy compliance documentation.</p>
       <p>🚀 <strong>The Tech Edge:</strong> Unlike traditional administrators, I bridge the gap between human resource management and data science. I leverage <strong>Python</strong>, <strong>SQL</strong>, and modern <strong>Web Technologies</strong> to eliminate manual bottlenecks, build insightful analytics dashboards, and automate redundant HR operations.</p>
       <h3>🌟 Strategic Core Competencies:</h3>
