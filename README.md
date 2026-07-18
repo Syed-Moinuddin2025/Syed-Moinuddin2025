@@ -145,7 +145,7 @@
     <td colspan="3" valign="top">
       <h3>🌐 Full-Stack Frontend Web Architecture (HTML5 • CSS3 • JavaScript)</h3>
       <ul>
-        <li>💻 <a href="https://github.com/Syed-Moinuddin2025/html-css-js-journey" target="_blank">Interactive Frontend Applications Journey</a> - Crafting standard-compliant semantic web nodes, modular responsive layout engines, dynamic interactive logic, and automated client validation structures.</li>
+        <li>💻 <a href="https://github.com/Syed-Moinuddin2025/web-development-journey/blob/main/01-HTML-Basics/index.html " target="_blank">Interactive Frontend Applications Journey</a> - Crafting standard-compliant semantic web nodes, modular responsive layout engines, dynamic interactive logic, and automated client validation structures.</li>
       </ul>
     </td>
   </tr>
