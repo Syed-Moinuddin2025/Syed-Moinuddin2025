@@ -39,7 +39,7 @@
       </a>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/Syed-Moinuddin2025/main/images/sqlandpythonsp.png" alt="Syed Moinuddin - SQL, Python, and Web Development Learning Journey Graph" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.25);" />
+      <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/myimage.png" alt="Syed Moinuddin - SQL, Python, and Web Development Learning Journey Graph" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.25);" />
     </td>
   </tr>
 </table>
