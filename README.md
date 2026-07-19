@@ -1,9 +1,9 @@
 <div align="center" style="font-size:24px; font-weight:bold;">
-    بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
+  بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
 </div>
 <br>
 <p align="center">
-  <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/banner.png" alt="Syed Moinuddin - HR Automation & Data Analyst Portfolio Banner" width="100%">
+  <img src="images/banner.png" alt="Syed Moinuddin - HR Automation & Data Analyst Portfolio Banner" width="100%">
 </p>
 
 <h1 align="center">
@@ -35,11 +35,11 @@
       </ul>
       <br>
       <a href="https://drive.google.com/file/d/1pu3o8bzkUiLdhhyELn4Y1jrcFB-uenGP/view?usp=drive_link" target="_blank">
-        <img src="https://img.shields.io/badge/📄%20Curriculum%20Vitae-Download%20CV-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Syed Moinuddin CV" />
+        <img src="https://img.shields.io/badge/Curriculum_Vitae-Download_CV-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Syed Moinuddin CV" />
       </a>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/Syed-Moinuddin2025/Syed-Moinuddin2025/blob/main/images/myimage.png" alt="Syed Moinuddin - SQL, Python, and Web Development Learning Journey Graph" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.25);" />
+      <img src="images/myimage.png" alt="Syed Moinuddin - SQL, Python, and Web Development Learning Journey Graph" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.25);" />
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@
 ### 💻 Data Science, Databases & Frontend Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Programming"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server Database"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server Database"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Database Management"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Database System"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Web Structure"/>
@@ -61,31 +61,27 @@
 
 ### 📊 Corporate Administration, Business Intelligence & Accounting
 <p align="left">
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Advanced Microsoft Excel Data Analytics"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI Data Visualization Dashboards"/>
-  <img src="https://img.shields.io/badge/TallyPrime-0079C1?style=for-the-badge&logo=data&logoColor=white" alt="TallyPrime Corporate Accounting Software"/>
-  <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word Documentation"/>
-  <img src="https://img.shields.io/badge/MS%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="MS Outlook Corporate Communication"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Advanced Microsoft Excel Data Analytics"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI Data Visualization Dashboards"/>
+  <img src="https://img.shields.io/badge/TallyPrime-0079C1?style=for-the-badge" alt="TallyPrime Corporate Accounting Software"/>
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word Documentation"/>
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="MS Outlook Corporate Communication"/>
 </p>
 
 ### 🖥️ Professional Developer Ecosystem & Tooling
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code IDE Editor"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Studio-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Studio SQL Interface"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code IDE Editor"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Studio SQL Interface"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks Data Science Environment"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Version Control System"/>
 </p>
 
 ---
 
-
-
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Syed-Moinuddin2025&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Syed-Moinuddin2025&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -142,16 +138,18 @@
     </td>
   </tr>
   <tr>
-   <td colspan="3" valign="top">
-  <h3>🌐 Full-Stack Frontend Web Architecture (HTML5 • CSS3 • JavaScript)</h3>
-  <ul>
-    <li>
-      💻 <a href="https://syed-moinuddin2025.github.io/web-development-journey/01-HTML-Basics/">
-      Interactive Frontend Applications Journey
-      </a> - Crafting standard-compliant semantic web nodes, modular responsive layout engines, dynamic interactive logic, and automated client validation structures.
-    </li>
-  </ul>
-</td>
+    <td colspan="3" valign="top">
+      <h3>🌐 Full-Stack Frontend Web Architecture (HTML5 • CSS3 • JavaScript)</h3>
+      <ul>
+        <li>
+          💻 <a href="https://syed-moinuddin2025.github.io/web-development-journey/01-HTML-Basics/">
+          Interactive Frontend Applications Journey
+          </a> - Crafting standard-compliant semantic web nodes, modular responsive layout engines, dynamic interactive logic, and automated client validation structures.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 <p align="center">
