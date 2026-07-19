@@ -151,7 +151,102 @@
   </tr>
 </table>
 
+## 🌐 HTML5
+
+Learning modern semantic HTML to build clean and accessible web pages.
+
+Topics:
+
+- Semantic HTML
+- Forms
+- Tables
+- Accessibility
+- SEO Basics
+
+---
+
+## 🎨 CSS3
+
+Learning responsive and modern UI development.
+
+Topics:
+
+- Flexbox
+- Grid
+- Responsive Design
+- Animations
+- Transitions
+
+---
+
+## ⚡ JavaScript
+
+Building interactive web applications.
+
+Topics:
+
+- Variables
+- Functions
+- DOM Manipulation
+- Events
+- ES6+
+- Fetch API
+- Async JavaScript
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Python Automation
+- 📊 Advanced Data Analytics
+- 🛢 Advanced SQL
+- 🐘 PostgreSQL
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- ⚛ React.js (Next Target)
+- 📈 Power BI
+- ☁ Git & GitHub Best Practices
+
+---
+
+# 🤝 Open Source Goals
+
+I enjoy collaborating on projects related to:
+
+- Data Analytics
+- Python
+- SQL
+- Power BI
+- HR Automation
+- Web Development
+- Open Source Projects
+
+Feel free to connect with me if you're working on something exciting!
+
+---
+
+# 💡 Fun Fact
+
+> I started learning programming to automate repetitive HR tasks... and today I'm building complete data analytics and web development projects. 🚀
+
 ---
 <p align="center">
   ✨ Made with passion and precision by Syed Moinuddin © 2026. Data and Logic combined. ✨
 </p>
+# 💡 Quote I Live By
+
+> **"Keep Learning. Keep Building. Keep Growing."**
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+Thank you for visiting my profile ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+
+</div>
+ 
