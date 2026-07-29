@@ -80,8 +80,8 @@
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Syed-Moinuddin2025&theme=tokyonight&hide_border=true"/>
+ <p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak Stats">
 </p>
 
 ---
