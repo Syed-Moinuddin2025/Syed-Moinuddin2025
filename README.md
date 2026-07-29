@@ -78,7 +78,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
  <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak Stats">
