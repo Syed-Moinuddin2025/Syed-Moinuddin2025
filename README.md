@@ -103,6 +103,15 @@
 | :-: | :--- | :---: | :--- |
 | 1️⃣ | [🍎 Apple Store Market Analysis](...) | 🐍 `Python` • 📊 `Pandas` | ... |
 
+| 2️⃣ | [🪔 Diwali Sales Predictive Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/02_Diwali_Sales_Analysis) | 🐍 `Python` • 📈 `Seaborn` | Cleaned and analyzed high-volume consumer festival spending behavior patterns. |
+| 3️⃣ | [🏪 Blinkit Quick-Commerce Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/03_Blinkit_Analysis) | 🐍 `Python` • 🛒 `EDA` | Modeled instant commerce logistics, delivery time clusters, and catalog pricing tiers. |
+| 4️⃣ | [👌 Cross-Channel E-commerce Sales](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/04_Ecommerce_Sales_Analysis) | 📊 `Excel` • 🐍 `Python` | Designed interactive financial reporting matrices evaluating gross margins and product returns. |
+| 5️⃣ | [🍕 Commercial Pizza Franchise Sales](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/05_Pizza_Sales_Analysis) | 🛢️ `SQL` • 📈 `Power BI` | Created robust relational databases linked to live dashboards showing hourly demand spikes. |
+| 6️⃣ | [🎡 Zomato Hyperlocal Cleaned Data](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/06_Zomato_Clean_Project) | 🧼 `Data Engineering` | Handled extensive missing value imputations and structural string transformations on restaurant layers. |
+| 7️⃣ | [🖼️ Netflix Content Strategy Metrics](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/07_Netflix_Data_Analysis) | 🐍 `Python` • 🍿 `EDA` | Visualized content acquisition trends, cinematic release distributions, and geographic growth. |
+| 8️⃣ | [🚘 Uber Fleet & Trip Optimization](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/08_Uber%20Data%20Analysis%20Project) | 🐍 `Python` • 🗺️ `Folium` | Plotted spatial coordinate maps analyzing business travel duration and mileage correlations. |
+| 9️⃣ | [☕ Coffee Shop Revenue Analysis](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/09_Coffee_Shop_Sales_Analysis) | 📊 `Power BI` • ☕ `Analytics` | Engineered interactive transactional dashboards showcasing seasonal performance indicators. |
+| 10️⃣ | [✈️ Global Flight Performance Metrics](https://github.com/Syed-Moinuddin2025/python_projects_analyses/tree/main/10_Flight_Performance_Analysis) | 🐍 `Python` • 🛢️ `SQL` | Calculated carrier delay ratios and optimized logistical tracking across global routes. |
 ---
 
 ## 🚀 Specialized Technical Learning Paths
