@@ -1,4 +1,4 @@
-<div align="center" style="font-size:24px; font-weight:bold;">
+<div align="center" style="font-size:28px; font-weight:bold;">
   بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
 </div>
 <br>
