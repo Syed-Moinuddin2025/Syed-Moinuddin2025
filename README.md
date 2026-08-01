@@ -29,7 +29,7 @@
       <p>🚀 <strong>The Tech Edge:</strong> Unlike traditional administrators, I bridge the gap between human resource management and data science. I leverage <strong>Python</strong>, <strong>SQL</strong>, and modern <strong>Web Technologies</strong> to eliminate manual bottlenecks, build insightful analytics dashboards, and automate redundant HR operations.</p>
       <h3>🌟 Strategic Core Competencies:</h3>
       <ul>
-        <li>🇸🇦 🇬🇧 <strong>Bilingual Professional Documentation:</strong> High-speed, error-free executive typing in both <strong>Arabic</strong> and <strong>English</strong>.</li>
+        <li>🇸🇦 🇬🇧 <strong>Bilingual Professional Documentation:</strong> Normal-speed, error-free  typing in both <strong>Arabic</strong> and <strong>English</strong>.</li>
         <li>📊 <strong>Financial & Data Management:</strong> Professional expertise in core bookkeeping, corporate billing, and accounting systems via <strong>TallyPrime</strong>.</li>
         <li>⚙️ <strong>HR Tech & Workflow Automation:</strong> Designing custom script solutions to optimize administrative efficiency and data pipelining.</li>
       </ul>
