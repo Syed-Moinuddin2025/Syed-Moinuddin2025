@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=6%2B+Years+HR+%26+Admin+Exp;SQL+%26+Python+Data+Analyst;HTML%2C+CSS+%26+JavaScript;HR+Process+Automation+Pro" alt="Syed Moinuddin - Skills Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=6%2B+Years+HR+%26+Admin+Exp;SQL+%26+Python;HTML%2C+CSS+%26+JavaScript;HR+Process+Automation+Pro" alt="Syed Moinuddin - Skills Typing Animation" />
   </a>
 </p>
 
